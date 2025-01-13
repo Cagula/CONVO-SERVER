@@ -4,3 +4,5 @@ su
 ga
 ma
 ta
+de
+pl
